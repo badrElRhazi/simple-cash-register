@@ -1,0 +1,36 @@
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterLibrary\bin\Debug\net6.0\SimpleCashRegisterLibrary.deps.json
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterLibrary\bin\Debug\net6.0\SimpleCashRegisterLibrary.dll
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterLibrary\bin\Debug\net6.0\SimpleCashRegisterLibrary.pdb
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterLibrary\obj\Debug\net6.0\SimpleCashRegisterLibrary.csproj.AssemblyReference.cache
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterLibrary\obj\Debug\net6.0\SimpleCashRegisterLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterLibrary\obj\Debug\net6.0\SimpleCashRegisterLibrary.AssemblyInfoInputs.cache
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterLibrary\obj\Debug\net6.0\SimpleCashRegisterLibrary.AssemblyInfo.cs
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterLibrary\obj\Debug\net6.0\SimpleCashRegisterLibrary.csproj.CoreCompileInputs.cache
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterLibrary\obj\Debug\net6.0\SimpleCashRegisterLibrary.dll
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterLibrary\obj\Debug\net6.0\refint\SimpleCashRegisterLibrary.dll
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterLibrary\obj\Debug\net6.0\SimpleCashRegisterLibrary.pdb
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterLibrary\obj\Debug\net6.0\ref\SimpleCashRegisterLibrary.dll
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterLibrary\bin\Debug\net6.0\SimpleCashRegisterLibrary.deps.json
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterLibrary\bin\Debug\net6.0\SimpleCashRegisterLibrary.dll
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterLibrary\bin\Debug\net6.0\SimpleCashRegisterLibrary.pdb
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterLibrary\obj\Debug\net6.0\SimpleCashRegisterLibrary.csproj.AssemblyReference.cache
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterLibrary\obj\Debug\net6.0\SimpleCashRegisterLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterLibrary\obj\Debug\net6.0\SimpleCashRegisterLibrary.AssemblyInfoInputs.cache
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterLibrary\obj\Debug\net6.0\SimpleCashRegisterLibrary.AssemblyInfo.cs
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterLibrary\obj\Debug\net6.0\SimpleCashRegisterLibrary.csproj.CoreCompileInputs.cache
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterLibrary\obj\Debug\net6.0\SimpleCashRegisterLibrary.dll
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterLibrary\obj\Debug\net6.0\refint\SimpleCashRegisterLibrary.dll
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterLibrary\obj\Debug\net6.0\SimpleCashRegisterLibrary.pdb
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterLibrary\obj\Debug\net6.0\ref\SimpleCashRegisterLibrary.dll
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterLibrary\bin\Debug\net6.0\SimpleCashRegisterLibrary.deps.json
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterLibrary\bin\Debug\net6.0\SimpleCashRegisterLibrary.dll
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterLibrary\bin\Debug\net6.0\SimpleCashRegisterLibrary.pdb
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterLibrary\obj\Debug\net6.0\SimpleCashRegisterLibrary.csproj.AssemblyReference.cache
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterLibrary\obj\Debug\net6.0\SimpleCashRegisterLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterLibrary\obj\Debug\net6.0\SimpleCashRegisterLibrary.AssemblyInfoInputs.cache
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterLibrary\obj\Debug\net6.0\SimpleCashRegisterLibrary.AssemblyInfo.cs
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterLibrary\obj\Debug\net6.0\SimpleCashRegisterLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterLibrary\obj\Debug\net6.0\SimpleCashRegisterLibrary.dll
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterLibrary\obj\Debug\net6.0\refint\SimpleCashRegisterLibrary.dll
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterLibrary\obj\Debug\net6.0\SimpleCashRegisterLibrary.pdb
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterLibrary\obj\Debug\net6.0\ref\SimpleCashRegisterLibrary.dll
