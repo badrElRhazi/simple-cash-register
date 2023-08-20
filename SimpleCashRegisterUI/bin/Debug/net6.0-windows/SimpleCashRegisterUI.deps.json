@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SimpleCashRegisterUI/1.0.0": {
+        "dependencies": {
+          "SimpleCashRegisterLibrary": "1.0.0"
+        },
+        "runtime": {
+          "SimpleCashRegisterUI.dll": {}
+        }
+      },
+      "SimpleCashRegisterLibrary/1.0.0": {
+        "runtime": {
+          "SimpleCashRegisterLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleCashRegisterUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimpleCashRegisterLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,87 @@
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterUI\bin\Debug\net6.0-windows\SimpleCashRegisterUI.exe
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterUI\bin\Debug\net6.0-windows\SimpleCashRegisterUI.dll
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterUI\bin\Debug\net6.0-windows\SimpleCashRegisterLibrary.dll
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterUI\bin\Debug\net6.0-windows\SimpleCashRegisterLibrary.pdb
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI.csproj.AssemblyReference.cache
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\ItemsPage.baml
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\ItemsPage.g.cs
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\Login.g.cs
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\PurchaseUI.g.cs
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\App.g.cs
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI_MarkupCompile.cache
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI_MarkupCompile.lref
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\Login.baml
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\PurchaseUI.baml
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI.g.resources
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI.AssemblyInfoInputs.cache
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI.AssemblyInfo.cs
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI.csproj.CoreCompileInputs.cache
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI.dll
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\refint\SimpleCashRegisterUI.dll
+D:\Programming\cshp\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI.pdb
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\bin\Debug\net6.0-windows\SimpleCashRegisterUI.exe
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\bin\Debug\net6.0-windows\SimpleCashRegisterUI.deps.json
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\bin\Debug\net6.0-windows\SimpleCashRegisterUI.runtimeconfig.json
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\bin\Debug\net6.0-windows\SimpleCashRegisterUI.dll
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\bin\Debug\net6.0-windows\SimpleCashRegisterUI.pdb
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\bin\Debug\net6.0-windows\SimpleCashRegisterLibrary.dll
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\bin\Debug\net6.0-windows\SimpleCashRegisterLibrary.pdb
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI.csproj.AssemblyReference.cache
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\ItemsPage.baml
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\ItemsPage.g.cs
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\Login.g.cs
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\PurchaseUI.g.cs
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI_MarkupCompile.cache
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI_MarkupCompile.lref
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\Login.baml
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\PurchaseUI.baml
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI.g.resources
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI.AssemblyInfoInputs.cache
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI.AssemblyInfo.cs
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI.csproj.CoreCompileInputs.cache
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI.csproj.CopyComplete
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI.dll
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\refint\SimpleCashRegisterUI.dll
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI.pdb
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI.genruntimeconfig.cache
+C:\Users\SeFyou\Desktop\Projets\SimpleCashRegister badr\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\ref\SimpleCashRegisterUI.dll
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\bin\Debug\net6.0-windows\SimpleCashRegisterUI.exe
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\bin\Debug\net6.0-windows\SimpleCashRegisterUI.deps.json
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\bin\Debug\net6.0-windows\SimpleCashRegisterUI.runtimeconfig.json
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\bin\Debug\net6.0-windows\SimpleCashRegisterUI.dll
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\bin\Debug\net6.0-windows\SimpleCashRegisterUI.pdb
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\bin\Debug\net6.0-windows\SimpleCashRegisterLibrary.dll
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\bin\Debug\net6.0-windows\SimpleCashRegisterLibrary.pdb
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI.csproj.AssemblyReference.cache
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\ItemsPage.baml
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\ItemsPage.g.cs
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\Login.g.cs
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\PurchaseUI.g.cs
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI_MarkupCompile.cache
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI_MarkupCompile.lref
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\Login.baml
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\PurchaseUI.baml
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI.g.resources
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI.AssemblyInfoInputs.cache
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI.AssemblyInfo.cs
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI.csproj.CoreCompileInputs.cache
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI.csproj.CopyComplete
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI.dll
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\refint\SimpleCashRegisterUI.dll
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI.pdb
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\SimpleCashRegisterUI.genruntimeconfig.cache
+C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\obj\Debug\net6.0-windows\ref\SimpleCashRegisterUI.dll
