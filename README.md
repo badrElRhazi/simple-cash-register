@@ -10,7 +10,7 @@ This is a simple cash register application built using WPF (Windows Presentation
 - Purchase functionality: add items to a shopping cart and apply discounts 
 - View and finalize purchases
 
-**All The data are stored in a txt file -cashiers, Items and purchase- , in _SimpleCashRegister\SimpleCashRegisterUI\bin\Debug\net6.0-windows_**
+**All The data are stored in separated txt files -cashiers, Items and purchase- , in _SimpleCashRegister\SimpleCashRegisterUI\bin\Debug\net6.0-windows_**
 
 **Getting Started**
 Clone the repository to your local machine.
