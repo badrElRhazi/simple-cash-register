@@ -7,18 +7,18 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="ItemsPage.xaml.cs">
+    <Compile Update="Artikl.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="Login.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="PurchaseUI.xaml.cs">
+    <Compile Update="PurchaseAdd.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="ItemsPage.xaml">
+    <Page Update="Artikl.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Login.xaml">
@@ -27,7 +27,7 @@
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="PurchaseUI.xaml">
+    <Page Update="PurchaseAdd.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

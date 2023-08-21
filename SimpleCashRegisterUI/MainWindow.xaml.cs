@@ -28,12 +28,30 @@ namespace SimpleCashRegisterUI
         {
             
             InitializeComponent();
-
+            Login loginControl = new Login(this);
+            CC.Content = loginControl;
         }
-
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             
+        }
+
+        private void ListView_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            if (e.AddedItems.Count > 0)
+            {
+                ListViewItem selectedItem = e.AddedItems[0] as ListViewItem;
+
+                if (selectedItem != null)
+                {
+                    string itemText = ((TextBlock)((StackPanel)selectedItem.Content).Children[1]).Text;
+
+                     if (itemText == "Purchase") // unable to code it the same way as i did for Artikl that's why.
+                    {
+                        CC.Content = new PurchaseAdd();
+                    }
+                }
+            }
         }
     }
 }

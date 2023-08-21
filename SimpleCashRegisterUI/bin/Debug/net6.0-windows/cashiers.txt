@@ -1,7 +1,2 @@
-1,aaa,aaa
-2,zz,zz
-3,kk,mamado
-4,badr,badr2000
-5,anass,ana1999
-6,momo,1234
-7,hassan,0910
+1,badr,1234
+2,anass,0909

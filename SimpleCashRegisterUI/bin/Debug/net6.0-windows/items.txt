@@ -1,13 +1,4 @@
 Id Item | Name | Description | Price | ItemNumber
-1,waah,juuuu,999,1
-2,nn,nn,55,0
-3,iphone,iph11,44,0
-4,sghsdhfgsdhg,sfdhkfsdkfh,999,0
-5,aa,aa,99,821711
-6,rr,rr,99,363688
-7,galaxy,s22,999,115564
-8,vfvf,vfvf,2000,845885
-9,Lenovo,thinkpad,99,975795
-10,Hp ELITEBOOK,HP GSD,1000,821657
-11,sfhfg,qsgsdfgdfgd,555,934438
-12,hp09,PROBOOK,3000,797625
+1,iPhone 15 Ultra,Apple Product ,2499,914772
+2,HP ELITEBOOK,INTEL i5 7th gen,3500,758481
+3,LENOVO,THINK PAD,299,663175

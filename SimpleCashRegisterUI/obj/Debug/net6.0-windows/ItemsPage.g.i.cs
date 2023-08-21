@@ -84,7 +84,7 @@ namespace SimpleCashRegisterUI {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/SimpleCashRegisterUI;component/itemspage.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/SimpleCashRegisterUI;V1.0.0.0;component/itemspage.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\ItemsPage.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

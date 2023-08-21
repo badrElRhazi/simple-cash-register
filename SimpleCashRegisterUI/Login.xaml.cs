@@ -23,10 +23,12 @@ namespace SimpleCashRegisterUI
     public partial class Login : UserControl
     {
         CashierManager cashierManager = new CashierManager();
+        private MainWindow mainWindow;
 
-        public Login()
+        public Login(MainWindow main)
         {
             InitializeComponent();
+            mainWindow = main;
             clearError();
             if (cashierManager.Count() == 0)
             {
@@ -40,10 +42,11 @@ namespace SimpleCashRegisterUI
                 if(cashierManager.Login(nom.Text, password.Password.ToString()))
                 {
                     clearError();
-                    ItemsPage page = new ItemsPage();
-                    this.Visibility = Visibility.Hidden;
-                    Application.Current.MainWindow.Visibility = Visibility.Hidden;
-                    page.Show();
+
+                    Artikl artikel = new Artikl();
+                    mainWindow.CC.Content= artikel;
+                    MessageBox.Show("welcome the store !");
+                    
                 }
                 else
                 {
@@ -57,22 +60,11 @@ namespace SimpleCashRegisterUI
                 ErrorLabel.Content = "* Fill all fields";
             }
         }
-        /*string name = itemNameTextBox.Text;
-        string description = itemDescriptionTextBox.Text;
-        CashierManager c = new CashierManager();
-        c.addCashier(name, description);*/
+       
         public void clearError()
         {
             ErrorLabel.Visibility = Visibility.Hidden;
         }
-
-        /*private void buttonSignUp_Click(object sender, RoutedEventArgs e)
-        {
-            string name = nom.Text;
-            string description = password.Password;
-            CashierManager c = new CashierManager();
-            c.addCashier(name, description);
-        }*/
         private void buttonSignUp_Click(object sender, RoutedEventArgs e)
         {
             if (!string.IsNullOrEmpty(nom.Text) && !string.IsNullOrEmpty(password.Password.ToString()))
@@ -84,11 +76,10 @@ namespace SimpleCashRegisterUI
                     nom.Clear();
                     password.Clear();
                     clearError();
-                    ItemsPage page = new ItemsPage();
-                    this.Visibility = Visibility.Hidden;
-                    Application.Current.MainWindow.Visibility = Visibility.Hidden;
-                    page.Show();
-                
+                    Artikl artikel = new Artikl();
+                    mainWindow.CC.Content = artikel;
+                    MessageBox.Show("welcome the store !");
+
             }
             else
             {

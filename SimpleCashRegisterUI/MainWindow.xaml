@@ -5,9 +5,46 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SimpleCashRegisterUI"
         mc:Ignorable="d"
-        Title="MainWindow" Height="472" Width="350">
+        Title="MainWindow" Height="472" Width="1200">
     <Grid>
-        <local:Login HorizontalAlignment="Center" VerticalAlignment="Center" Height="436" Width="330"/>
-    
+        <!--<local:Login HorizontalAlignment="Center" VerticalAlignment="Center" Height="436" Width="330"/>-->
+        <Grid>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.25*">
+
+                </ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Grid HorizontalAlignment="left" Width="140" Background="#21909e">
+                <StackPanel>
+                    <Grid Height="0" Background="White"></Grid>
+                    <ListView SelectionChanged="ListView_SelectionChanged" BorderBrush="Transparent" FontFamily="Century Gothic" FontSize="14" Foreground="White" Background="Transparent">
+                        <ListViewItem Height="30">
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="icons/LoginIcon.png" Height="20" VerticalAlignment="Center"   ></Image>
+                                <TextBlock Margin="15 0 0 0" Text="Login" VerticalAlignment="Center"></TextBlock>
+                            </StackPanel>
+                        </ListViewItem>
+                        <ListViewItem Height="30"  x:Name="addIT" IsEnabled="False">
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="icons/AddItemIcon.png" Height="20" VerticalAlignment="Center"   ></Image>
+                                <TextBlock x:Name="additem"  Margin="15 0 0 0" Text="Add Item"  VerticalAlignment="Center"></TextBlock>
+                            </StackPanel>
+                        </ListViewItem>
+                        <ListViewItem Height="30" x:Name="purchase" >
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="icons/PurchaseIcon.png" Height="20" VerticalAlignment="Center"   ></Image>
+                                <TextBlock Margin="15 0 0 0" Text="Purchase"  VerticalAlignment="Center"></TextBlock>
+                            </StackPanel>
+                        </ListViewItem>
+                    </ListView>
+
+                </StackPanel>
+
+            </Grid>
+            <ContentControl x:Name="CC" Grid.Column="1"/>
+        </Grid>
     </Grid>
+
 </Window>

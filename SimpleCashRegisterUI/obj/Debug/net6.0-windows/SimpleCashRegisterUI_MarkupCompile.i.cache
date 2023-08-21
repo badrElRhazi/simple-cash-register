@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\Badr\Desktop\SimpleCashRegister\SimpleCashRegisterUI\App.xaml
-4-75748653
+41678070369
 
-8-1051457359
+8-1019281718
 195-1654869146
-ItemsPage.xaml;Login.xaml;MainWindow.xaml;PurchaseUI.xaml;
+Artikl.xaml;Login.xaml;MainWindow.xaml;PurchaseAdd.xaml;
 
-True
+False
 
