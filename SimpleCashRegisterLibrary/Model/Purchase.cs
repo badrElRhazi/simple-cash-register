@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SimpleCashRegisterLibrary.Model
 {
-    internal class Purchase
+    public class Purchase:Shopping
     {
         private int _purchaseID=0;
         private DateTime _purchaseDate;
@@ -24,7 +24,13 @@ namespace SimpleCashRegisterLibrary.Model
             PurchaseDate = purchaseDate;
             PurchasedItems = purchasedItems;
         }
-
+        public Purchase(int itemNumber, int quantity, double discount, double price)
+        {
+            ItemNumber = itemNumber;
+            Quantity = quantity;
+            Discount = (float)discount;
+            Price = price;
+        }
         public int PurchaseID { get => _purchaseID; set => _purchaseID = value; }
         public DateTime PurchaseDate { get => _purchaseDate; set => _purchaseDate = value; }
         public float TotalAmount { get => _totalAmount; set => _totalAmount = value; }

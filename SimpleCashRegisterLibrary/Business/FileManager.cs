@@ -103,7 +103,45 @@ namespace SimpleCashRegisterLibrary.Business
             }
             return items;
         }
-        
+
+        public void SavePurchases(List<Purchase> purchases, string fileName)
+        {
+            using (StreamWriter writer = new StreamWriter(fileName))
+            {
+                writer.WriteLine("ItemNumber | Quantity | Discount | Price");
+                foreach (Purchase purchase in purchases)
+                {
+                    writer.WriteLine($"{purchase.ItemNumber},{purchase.Quantity},{purchase.Discount},{purchase.Price}");
+                }
+            }
+        }
+
+        public List<Purchase> LoadPurchases(string fileName)
+        {
+            List<Purchase> purchases = new List<Purchase>();
+
+            if (File.Exists(fileName))
+            {
+                using (StreamReader reader = new StreamReader(fileName))
+                {
+                    string line;
+
+                    while ((line = reader.ReadLine()) != null)
+                    {
+                        string[] parts = line.Split(',');
+                        if (parts.Length >= 4)
+                        {
+                            int itemNumber = int.Parse(parts[0]);
+                            int quantity = int.Parse(parts[1]);
+                            double discount = double.Parse(parts[2]);
+                            double price = double.Parse(parts[3]);
+                            purchases.Add(new Purchase(itemNumber, quantity, discount, price));
+                        }
+                    }
+                }
+            }
+            return purchases;
+        }
 
 
     }

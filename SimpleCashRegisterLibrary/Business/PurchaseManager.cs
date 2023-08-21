@@ -75,8 +75,18 @@ namespace SimpleCashRegisterLibrary.Business
             price= Math.Round(price,2);
             return (double)price;
         }
-        
-
+        public void SavePurchase()
+        {
+            using (StreamWriter writer = new StreamWriter(FILE_NAME, true)) 
+            {
+                writer.WriteLine("** NEW PURCHASE : ItemNumber | Quantity | Discount | Price");
+                foreach (Shopping item in shoppingCart)
+                {
+                    string purchaseInfo = $"{item.ItemNumber},{item.Quantity},{item.Discount},{item.Price}";
+                    writer.WriteLine(purchaseInfo);
+                }
+            }
+        }
 
     }
 }
